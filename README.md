@@ -1,4 +1,6 @@
-# 🚌 Project: Smart Route Re-Router
+# 🚌 Project: Smart Route Re-Router 
+
+### ► Hackathon Submission For :  BRAMHACKS 2024
 
 ## 🗺️ Overview
 The purpose of this project is to provide a software solution for rerouting in critical transit situations. The system detects when a bus reroute is required, prompts the user, awaits confirmation from the transit control center, and then sends the updated route to passengers. Currently, this application demonstrates functionality on a single bus route.
